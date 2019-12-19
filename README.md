@@ -4,7 +4,7 @@ This repo is a collection of CS research-related opportunities for undergrads.
 
 ## Contributing
 
-To add to this, send a pull request. If you aren't familiar enough with git/Github, just open an issue.
+To add to this, send a pull request. If you aren't familiar enough with git/Github, just open an [issue](https://github.com/alisha/Research-for-Undergrads/issues).
 
 ## Grad School Preview Weekends
 
